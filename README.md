@@ -61,9 +61,6 @@ NYPD-DataWarehouse-BI/
 │   └── NYPD-Workshop-Complaints.pdf     # Workshop reference slides
 │
 ├── images/
-│   ├── NYPD_PowerBI.PNG
-│   ├── NYPD_PowerBI_2.PNG
-│   └── NYPD_PowerBI_3.PNG
 │
 └── README.md
 ```
